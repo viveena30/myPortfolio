@@ -1,3 +1,3 @@
 # myPortfolio
 
-![live-demo](https://viveena.netlify.app/)
+<!-- ![live-demo](https://viveena.netlify.app/) -->
